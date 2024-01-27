@@ -7,7 +7,7 @@ function Testimonio(props) {
       <img
         className="imagen-testimonio"
         src={require(`../img/testimonio-${props.imagen}.png`)}
-        alt="Foto de Emma"
+        alt={`Foto de ${props.nombre}`}
       />
       <div className="contenedor-texto-testimonio">
         <p className="nombre-testimonio">
@@ -16,7 +16,10 @@ function Testimonio(props) {
         <p className="cargo-testimonio">
           {props.cargo} en <strong>{props.empresa}</strong>
         </p>
-        <p className="texto-testimonio">"{props.testimonio}"</p>
+        <p
+          className="texto-testimonio"
+          dangerouslySetInnerHTML={{ __html: props.testimonio }}
+        />
       </div>
     </div>
   );
