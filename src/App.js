@@ -2,7 +2,6 @@ import "./App.css";
 import Testimonio from "./componentes/Testimonio.js";
 
 function App() {
-
   return (
     <div className="App">
       <div>
@@ -30,14 +29,6 @@ function App() {
           cargo="Ingeniera de Software"
           empresa="Spotify"
           testimonio="Siempre he tenido problemas para aprender JavaScript. He tomado muchos cursos, pero el curso de freeCodeCamp fue el que se quedó. <strong>Estudiar JavaScript, así como estructuras de datos y algoritmos en freeCodeCamp</strong> me dio las habilidades y la confianza que necesitaba para conseguir el trabajo de mis sueños como ingeniero de software en Spotify."
-        />
-        <Testimonio
-          nombre="Marcos Pool"
-          pais="Mexico"
-          imagen="marcos"
-          cargo="Ingeniero en Datos"
-          empresa="Universidad del Caribe"
-          testimonio="FreeCodeCamp me ayudo a aprender a programar y a desarrollar mis habilidades en el desarrollo web, me ayudo a conseguir mi primer trabajo como desarrollador web y ahora como ingeniero en datos. FreeCodeCamp me ayudo a cambiar mi vida y a tener un mejor futuro."
         />
       </div>
     </div>
