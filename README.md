@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# Testimonios FreeCodeCamp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es una réplica de la página de testimonios de FreeCodeCamp, diseñado con el objetivo de recrear la esencia y el impacto de la página original de testimonios de FreeCodeCamp, destacando las historias y experiencias de los usuarios que han aprendido y crecido con la plataforma.
 
-## Available Scripts
+## Descripción
 
-In the project directory, you can run:
+La página de testimonios de FreeCodeCamp ha inspirado a miles de personas a aprender y desarrollarse en el mundo del desarrollo web y la programación. Este proyecto busca capturar esa inspiración recreando la experiencia de la página de testimonios, utilizando tecnologías web modernas para ofrecer una réplica fiel y funcional.
 
-### `npm start`
+### Visita la réplica de Testimonios FreeCodeCamp aquí: [Testimonios FreeCodeCamp Réplica](https://marcosd59-testimonios-freecodecamp.netlify.app/) 📝
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Captura de pantalla
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Pagina de inicio](./src/img/screenshots/Captura%20de%20pantalla%201.png)
 
-### `npm test`
+## Características
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Réplica Fiel**: Diseño y funcionalidad que imitan de cerca la página original de testimonios de FreeCodeCamp.
+- **Responsive Design**: Una experiencia totalmente responsiva que se adapta a cualquier tamaño de pantalla, desde dispositivos móviles hasta pantallas grandes.
+- **Interactividad**: Navegación fluida e interactiva a través de los testimonios.
 
-### `npm run build`
+## Tecnologías Utilizadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- HTML
+- CSS
+- JavaScript
+- React (opcionalmente, dependiendo de la implementación)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Cómo Contribuir
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Las contribuciones son lo que hacen a la comunidad de código abierto un lugar increíble para aprender, inspirar y crear. Cualquier contribución que hagas será **enormemente apreciada**.
 
-### `npm run eject`
+1. Haz un Fork del proyecto
+2. Crea tu rama de característica (`git checkout -b feature/AmazingFeature`)
+3. Haz commit de tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Haz push a la rama (`git push origin feature/AmazingFeature`)
+5. Abre una Pull Request
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contacto
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Marcos Damian Pool Canul - damian.marcospool@gmail.com
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+URL del Proyecto: [https://github.com/marcosd59/testimonios-freecodecamp](https://github.com/marcosd59/testimonios-freecodecamp)
