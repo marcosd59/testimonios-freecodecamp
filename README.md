@@ -6,7 +6,7 @@ Este proyecto es una réplica de la página de testimonios de FreeCodeCamp, dise
 
 La página de testimonios de FreeCodeCamp ha inspirado a miles de personas a aprender y desarrollarse en el mundo del desarrollo web y la programación. Este proyecto busca capturar esa inspiración recreando la experiencia de la página de testimonios, utilizando tecnologías web modernas para ofrecer una réplica fiel y funcional.
 
-### Visita la réplica de Testimonios FreeCodeCamp aquí: [Testimonios FreeCodeCamp Réplica](https://marcosd59-testimonios-freecodecamp.netlify.app/) 📝
+### Visita la réplica de Testimonios FreeCodeCamp aquí: [Testimonios FreeCodeCamp](https://marcosd59-testimonios-freecodecamp.netlify.app/) 📝
 
 ## Captura de pantalla
 
